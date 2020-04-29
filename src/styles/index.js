@@ -20,6 +20,7 @@ export const GlobalStyles = createGlobalStyle`
   .___gatsby{
     position: absolute;
   }
+
   main{
     padding-top: 3.5rem;
   }
